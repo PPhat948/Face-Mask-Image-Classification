@@ -30,3 +30,5 @@ pip install opencv-python tensorflow numpy matplotlib scikit-learn pandas
 10. Save model.
 ## Model Result
 This project achieves 99% accuracy and can classify real-world images in different scenarios.
+## Link to model file
+https://drive.google.com/file/d/1tS_TC4SQ0oXqlhjRPN3benujt51Z0Nhp/view?usp=drive_link
