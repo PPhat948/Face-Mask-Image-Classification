@@ -26,7 +26,8 @@ pip install opencv-python tensorflow numpy matplotlib scikit-learn pandas
 6. Use the trained model to predict classes for the test batches.
 7. Evaluate the model using a confusion matrix and a classification report to measure accuracy and other metrics.
 8. Display sample test images and their predictions.
-9. Save model.
+9. Test model with some real images from internet to make sure that it can classify real images outside the dataset.
+10. Save model.
 ## Model Result
 This project achieves 99% accuracy and precision.
 ## Link to model file
