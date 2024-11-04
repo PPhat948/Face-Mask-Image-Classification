@@ -29,6 +29,6 @@ pip install opencv-python tensorflow numpy matplotlib scikit-learn pandas
 9. Test model with some real images from internet to make sure that it can classify real images outside the dataset.
 10. Save model.
 ## Model Result
-This project achieves 99% accuracy and precision.
+This project achieves 98% accuracy and precision.
 ## Link to model file
 https://drive.google.com/file/d/1tS_TC4SQ0oXqlhjRPN3benujt51Z0Nhp/view?usp=drive_link
